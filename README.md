@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jaydeep Sondagar</h1>
+<h1 color="green" align="center">Hi 👋, I'm Jaydeep Sondagar</h1>
 
 
 <img  align="right" alt="coding" width="700" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
