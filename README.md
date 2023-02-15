@@ -20,6 +20,18 @@ Here are some ideas to get you started:
 
 
 <img  align="right" alt="coding" width="700" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+## Skill Badges
+
+<!-- skills -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java-script,git,ai,ps,eclipse,ae,idea,c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin,lua,py,qt,twitter,vscode,visualstudio,r" />
+  </a>
+</p>
+
   
 
 
