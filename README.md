@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Skill Badges
 
 <!-- skills -->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java-script,git,ai,ps,eclipse,ae,idea,c,cpp,cs" />
     <img src="https://skillicons.dev/icons?i=instagram,linkedin,lua,py,qt,twitter,vscode,visualstudio,r" />
