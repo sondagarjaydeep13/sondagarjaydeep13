@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <p align="left">
  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java-script,git,idea,c,cpp," />
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter,vscode,visualstudio,r" />
+    <img src="https://skillicons.dev/icons?i=java-script,git,c,cpp," />
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter,vscode,visualstudio" />
   </a>
 </p>
 
