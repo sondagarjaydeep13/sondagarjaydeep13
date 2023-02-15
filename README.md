@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=node,git,c,cpp,instagram,linkedin,twitter,vscode,visualstudio" />
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter,vscode,visualstudio" />
+  
   </a>
 </p>
 
