@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <!-- skills -->
-<p align="right">
+<p align="center">
  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,instagram,linkedin,twitter,vscode,visualstudio" />
