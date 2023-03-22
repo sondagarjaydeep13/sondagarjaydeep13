@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+https://www.linkedin.com/in/jaydeep-sondagar-55bb871a3/
 <h1 align="center">Hi 👋, I'm Jaydeep Sondagar</h1>
 
 
