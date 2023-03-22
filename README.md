@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.linkedin.com/in/jaydeep-sondagar-55bb871a3/
+
 <h1 align="center">Hi 👋, I'm Jaydeep Sondagar</h1>
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaydeep-sondagar-55bb871a3/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width=160px;  height =40px; ></a></p> 
 <img  align="right" alt="coding" width="700" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
