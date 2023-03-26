@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jaydeep</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaydeep-sondagar-55bb871a3"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width=160px;  height =40px; ></a></p> <br>
+
+ <h1 align="center" >    <img  width=200px;  height =300px;   src="https://raw.githubusercontent.com/Solomonkassa/Solomonkassa/main/myfavor.gif" />      </h1> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondagarjaydeep13&label=Profile%20views&color=0e75b6&style=flat" alt="sondagarjaydeep13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sondagarjaydeep13" alt="sondagarjaydeep13" /></a> </p>
