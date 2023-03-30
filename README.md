@@ -15,8 +15,8 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages :</h3>
-<h2>C,C++,Node-Js,Basic Java-Script</h2>
+<h3 align="left">Languages & Tools :</h3>
+<h4>C,C++,Node-Js,Basic Java-Script,HTML,CSS,github,MySql</h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sondagarjaydeep13&show_icons=true&locale=en&layout=compact" alt="sondagarjaydeep13" /></p>
 
