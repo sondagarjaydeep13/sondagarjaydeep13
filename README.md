@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <h4>Check My-Profile:<a>https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html</a></h4>
+  <h4>Check My-Profile:  <a href="https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html">https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html</a></h4>
 </p>
 
 <h3 align="left">Languages & Tools :</h3>
