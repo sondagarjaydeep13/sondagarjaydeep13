@@ -1,52 +1,50 @@
-<h1 align="center">Hi 👋, I'm Jaydeep</h1>
-<h3 align="center">A passionate MERN-Stack developer from India</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=251B68&height=160&section=header&text=Jaydeep+Sondagar&fontSize=30&fontColor=BAB2EF&animation=twinkling&fontAlignY=35" />
+
+<!--
+**miltonnotforyou/miltonnotforyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Hello%2C+everyone!;My+name+is+Jaydeep+Sondagar;I'm+23+years+old;I+live+in+Surat+Gujarat;Be+welcome!)](https://git.io/typing-svg)
 
 
+- 🌱 I’m currently Learning Web development course at Tops-Technologies
 
-<p align="center" > <img align="center" alt="GIF" src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" width="350"/> </p>
-<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaydeep-sondagar-55bb871a3"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width=200px;  height =60px; ></a></p> <br>
+<br/><br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sondagarjaydeep13&label=Profile%20views&color=0e75b6&style=flat" width=150px;  height =40px; alt="sondagarjaydeep13" /> </p>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Technologies+I'm+learn)](https://git.io/typing-svg)
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,java,docker,linux" /><br>
+  </div>
+<br/><br/>
 
-<p align="center" >
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Where+to+find+me)](https://git.io/typing-svg)
  
-<img   width=50px;  height =50px; src="https://i.postimg.cc/fRbKFQ8X/Html.png" alt="">
-  &nbsp;  &nbsp;
-<img  width=50px;  height =50px; src="https://i.postimg.cc/VNpDnZBt/Css.png" alt="">
-  &nbsp;  &nbsp;
-  <img  width=50px;  height =50px; src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" alt="">
-  &nbsp;  &nbsp;
-  <img  width=50px;  height =50px; src="https://rohithanss.github.io/skills/expressJs.png" alt="">
-  &nbsp;  &nbsp;
-  <img width=50px;  height =50px; src="https://hanumat-sharan.github.io/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg" alt="">
-  &nbsp;  &nbsp;
-  <img width=50px;  height =50px;  src="https://rohithanss.github.io/skills/nodejs.png" alt="">
-</p>                                                                                                                                                                                                                                                                                  
-<br> <br>    
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](sondagarjaydeep13)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jaydeep-sondagar-55bb871a3)
+[<img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/JaydeepSondagar)
+ 
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sondagarjaydeep13&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=" Vitor Hugo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonnotforyou&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+   
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sondagarjaydeep13" alt="sondagarjaydeep13" /></a> </p>
-
-
-<p align="left">
-  <h4>Check My-Profile:  <a href="https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html">https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html</a></h4>
-</p>
 
 <div align="center">
+<p><b>Visitor Count</b></p>
+<p><img src="https://profile-counter.glitch.me/{sondagarjaydeep13}/count.svg" /></p>  
 
-<img width="45%" height="200px" align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sondagarjaydeep13&show_icons=true&locale=en&layout=compact" alt="sondagarjaydeep13" />
+</div>  
 
-<img width="45%" height="200px" align="" src="https://github-readme-stats.vercel.app/api?username=sondagarjaydeep13&show_icons=true&locale=en" alt="sondagarjaydeep13" />
-
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=sondagarjaydeep13&" alt="sondagarjaydeep13" /></p>
-
-
-  </div>
-
-
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=251B68&height=120&section=footer" />
