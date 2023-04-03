@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaydeep-sondagar-55bb871a3"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width=200px;  height =60px; ></a></p> <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sondagarjaydeep13&label=Profile%20views&color=0e75b6&style=flat" alt="sondagarjaydeep13" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sondagarjaydeep13&label=Profile%20views&color=0e75b6&style=flat" width=150px;  height =40px; alt="sondagarjaydeep13" /> </p>
 
 <p align="center" >
  
@@ -34,8 +34,7 @@
   <h4>Check My-Profile:  <a href="https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html">https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html</a></h4>
 </p>
 
-<h3 align="left">Languages & Tools :</h3>
-<h4>C,C++,Node-Js,Basic Java-Script,HTML,CSS,github,MySql</h4>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sondagarjaydeep13&show_icons=true&locale=en&layout=compact" alt="sondagarjaydeep13" /></p>
 
