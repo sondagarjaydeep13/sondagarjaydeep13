@@ -31,17 +31,17 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sondagarjaydeep13" alt="sondagarjaydeep13" /></a> </p>
 
 
-<p align="center">
+<p align="left">
   <h4>Check My-Profile:  <a href="https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html">https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html</a></h4>
 </p>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sondagarjaydeep13&show_icons=true&locale=en&layout=compact" alt="sondagarjaydeep13" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sondagarjaydeep13&show_icons=true&locale=en&layout=compact" alt="sondagarjaydeep13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sondagarjaydeep13&show_icons=true&locale=en" alt="sondagarjaydeep13" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sondagarjaydeep13&show_icons=true&locale=en" alt="sondagarjaydeep13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sondagarjaydeep13&" alt="sondagarjaydeep13" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sondagarjaydeep13&" alt="sondagarjaydeep13" /></p>
 
 
   
