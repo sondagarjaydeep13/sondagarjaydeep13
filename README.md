@@ -7,7 +7,23 @@
 <p align="center" > <img align="center" alt="GIF" src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" width="350"/> </p>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sondagarjaydeep13&label=Profile%20views&color=0e75b6&style=flat" alt="sondagarjaydeep13" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sondagarjaydeep13&label=Profile%20views&color=0e75b6&style=flat" alt="sondagarjaydeep13" /> </p>
+
+<p align="center" >
+ 
+<img   width=35px;  height =35px; src="https://i.postimg.cc/fRbKFQ8X/Html.png" alt="">
+  &nbsp;  &nbsp;
+<img  width=35px;  height =35px; src="https://i.postimg.cc/VNpDnZBt/Css.png" alt="">
+  &nbsp;  &nbsp;
+  <img  width=35px;  height =35px; src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" alt="">
+  &nbsp;  &nbsp;
+  <img  width=35px;  height =35px; src="https://rohithanss.github.io/skills/expressJs.png" alt="">
+  &nbsp;  &nbsp;
+  <img width=35px;  height =35px; src="https://hanumat-sharan.github.io/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg" alt="">
+  &nbsp;  &nbsp;
+  <img width=35px;  height =35px;  src="https://rohithanss.github.io/skills/nodejs.png" alt="">
+</p>                                                                                                                                                                                                                                                                                  
+<br> <br>    
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sondagarjaydeep13" alt="sondagarjaydeep13" /></a> </p>
 
