@@ -30,7 +30,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sondagarjaydeep13" alt="sondagarjaydeep13" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <h4>Check My-Profile:  <a href="https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html">https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html</a></h4>
 </p>
