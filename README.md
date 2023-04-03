@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Where+to+find+me)](https://git.io/typing-svg)
  
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](sondagarjaydeep13)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jaydeep-sondagar-55bb871a3)
+[<img src="https://img.shields.io/badge/?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jaydeep-sondagar-55bb871a3)
 [<img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/JaydeepSondagar)
  
 <div align="center">  
