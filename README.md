@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently Learning Web development course at Tops-Technologies
-
+- 📫 Check Profile : <a href="https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html">https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html</a>
 
 <br/><br/>
 
