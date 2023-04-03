@@ -10,20 +10,21 @@
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaydeep-sondagar-55bb871a3"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width=200px;  height =60px; ></a></p> <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sondagarjaydeep13&label=Profile%20views&color=0e75b6&style=flat" width=150px;  height =40px; alt="sondagarjaydeep13" /> </p>
+<br>
 
 <p align="center" >
  
-<img   width=35px;  height =35px; src="https://i.postimg.cc/fRbKFQ8X/Html.png" alt="">
+<img   width=50px;  height =50px; src="https://i.postimg.cc/fRbKFQ8X/Html.png" alt="">
   &nbsp;  &nbsp;
-<img  width=35px;  height =35px; src="https://i.postimg.cc/VNpDnZBt/Css.png" alt="">
+<img  width=50px;  height =50px; src="https://i.postimg.cc/VNpDnZBt/Css.png" alt="">
   &nbsp;  &nbsp;
-  <img  width=35px;  height =35px; src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" alt="">
+  <img  width=50px;  height =50px; src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" alt="">
   &nbsp;  &nbsp;
-  <img  width=35px;  height =35px; src="https://rohithanss.github.io/skills/expressJs.png" alt="">
+  <img  width=50px;  height =50px; src="https://rohithanss.github.io/skills/expressJs.png" alt="">
   &nbsp;  &nbsp;
-  <img width=35px;  height =35px; src="https://hanumat-sharan.github.io/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg" alt="">
+  <img width=50px;  height =50px; src="https://hanumat-sharan.github.io/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg" alt="">
   &nbsp;  &nbsp;
-  <img width=35px;  height =35px;  src="https://rohithanss.github.io/skills/nodejs.png" alt="">
+  <img width=50px;  height =50px;  src="https://rohithanss.github.io/skills/nodejs.png" alt="">
 </p>                                                                                                                                                                                                                                                                                  
 <br> <br>    
 
