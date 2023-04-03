@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=251B68&height=160&section=header&text=Jaydeep+Sondagar&fontSize=30&fontColor=BAB2EF&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=160&section=header&text=Jaydeep+Sondagar&fontSize=35&fontColor=white&animation=twinkling&fontAlignY=35" />
 
 <!--
 **miltonnotforyou/miltonnotforyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 </div>  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=251B68&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" />
