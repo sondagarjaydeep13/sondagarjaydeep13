@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Technologies+I'm+learn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Thechnical+Skills)](https://git.io/typing-svg)
   <div align="left">
     <img src="https://skillicons.dev/icons?i=js,html,css,git,nodejs,mysql,mongodb,vscode,github,expressjs" /><br>
   </div>
