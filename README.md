@@ -28,13 +28,8 @@ Here are some ideas to get you started:
   </div>
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=My+Project)](https://git.io/typing-svg)
-  <div align="left">
-         <h3> 🔭  Chat Apps  :  <a href="https://chatapps-d7js.onrender.com" >click here</a></h3> 
 
 
-  </div>
-<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Where+to+find+me)](https://git.io/typing-svg)
  
