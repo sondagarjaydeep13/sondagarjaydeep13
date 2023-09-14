@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Hello%2C+everyone!;My+name+is+Jaydeep+Sondagar;I'm+23+years+old;I+live+in+Surat+Gujarat;Be+welcome!)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently Learning Web development course at Tops-Technologies
-- 📫 Check Profile : <a href="https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html">https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html</a>
+- 🌱 I’m currently Work as Nodejs developer
 
 <br/><br/>
 
